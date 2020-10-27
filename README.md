@@ -29,8 +29,13 @@ It's a simple server thats made by using following technologies
 ![HomePage](public/images/demo/nextJS_server.png)
 
 - PostMan API 
-Import this file to do CURD operations by using postman
-[Postman](next-node-curd-server.postman_collection.json)
+```
+    Import following file in Postman to do CURD operations In Postman App
+``` 
+   
+-   [ Postman CURD API File](next-node-curd-server.postman_collection.json)
+
+
 
 ![PostMan API](public/images/demo/postman_nextJS_server.png)
 
