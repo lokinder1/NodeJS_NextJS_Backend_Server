@@ -1,11 +1,37 @@
 # NodeJS_NextJS_Backend_Server
 
+```
+It's a simple server thats made by using following technologies
+- NodeJS
+- NextJS
+
+```
+
 ## How To Run 
-    
-    1. start server
+```
+    1. Install Packages
+    yarn
+
+    2. start server
     nodemon server/server.js
 
-    2. CURD Operations
+```
 
-    To make hits on api you can import "next-node-curd-server.postman_collection.json" file in Postman App
+## Tasks Completed
+1. Create Post
+2. Update Post
+3. Read Post
+4. Delete Post
+5. Read All Posts
+
+## Demo ScreenShots
+- Frontend HomePage
+![HomePage](public/images/demo/nextJS_server.png)
+
+- PostMan API 
+Import this file to do CURD operations by using postman
+[Postman](next-node-curd-server.postman_collection.json)
+
+![PostMan API](public/images/demo/postman_nextJS_server.png)
+
 
